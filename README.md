@@ -50,3 +50,9 @@
    - [Cola de prioridad](https://github.com/oiab94/EstrucutraDeDatos/tree/main/05_Cola/02_ColaDePrioridad).
    - [Cola doblemente enlazada](https://github.com/oiab94/EstrucutraDeDatos/tree/main/05_Cola/03_ColaDoblementeEnlazada/mypack).
 </details>
+
+<details>
+   <summary> 6. Binary Tree </summary>
+
+   - [Representación de un nodo del árbol binario](/06_%C3%81rbolBinario/01_ArbolBinario/Node.java)
+</details>

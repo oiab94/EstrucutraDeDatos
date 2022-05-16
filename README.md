@@ -5,50 +5,50 @@
 <details>
 <summary> 1. Array </summary>
 
-   - [Creación, inicialización y Acceso](https://github.com/oiab94/EstrucutraDeDatos/tree/main/01_Array/01_Creacion_Inicializacion_Acceso).
-   - [Array de objetos](https://github.com/oiab94/EstrucutraDeDatos/tree/main/01_Array/02_ArrayDeObjetos).
-   - [Array Multidimensionales](https://github.com/oiab94/EstrucutraDeDatos/tree/main/01_Array/03_ArrayMultidimensional).
-   - [Pasar array a métodos](https://github.com/oiab94/EstrucutraDeDatos/tree/main/01_Array/04_PasarArrayAMetodos).
-   - [Devolución de array desde métodos](https://github.com/oiab94/EstrucutraDeDatos/tree/main/01_Array/05_DevolucionArrayDesdeMetodos).
-   - [Clonación de arrays](https://github.com/oiab94/EstrucutraDeDatos/tree/main/01_Array/06_ClonacionArray).
-   - [Clonación de arrays multidimensionales](https://github.com/oiab94/EstrucutraDeDatos/tree/main/01_Array/07_ClonacionArrayMultidimensional).
-   - [Rotación de array](https://github.com/oiab94/EstrucutraDeDatos/tree/main/01_Array/08_RotacionArray).
+   - [Creación, inicialización y Acceso](/01_Array/01_Creacion_Inicializacion_Acceso/GFG.java).
+   - [Array de objetos](/01_Array/02_ArrayDeObjetos/GFG_estudiante.java).
+   - [Array Multidimensionales](/01_Array/03_ArrayMultidimensional/MultiDimensional.java).
+   - [Pasar array a métodos](/01_Array/04_PasarArrayAMetodos/Test.java).
+   - [Devolución de array desde métodos](/01_Array/05_DevolucionArrayDesdeMetodos/Test_devolucion.java).
+   - [Clonación de arrays](/01_Array/06_ClonacionArray/Test_clonacion.java).
+   - [Clonación de arrays multidimensionales](/01_Array/07_ClonacionArrayMultidimensional/Test_clonacionMulti.java).
+   - [Rotación de array](/01_Array/08_RotacionArray/).
 </details>
 
 <details>
 <summary> 2. Linked List </summary>
 
-   - [Objeto linked list](https://github.com/oiab94/EstrucutraDeDatos/tree/main/02_ListaEnlazada/01_ListaEnlazada).
-   - [Creación linked list](https://github.com/oiab94/EstrucutraDeDatos/tree/main/02_ListaEnlazada/02_CreacionListaEnlazada).
-   - [Recorrido lista enlazada](https://github.com/oiab94/EstrucutraDeDatos/tree/main/02_ListaEnlazada/03_RecorridoListaEnlazada).
-   - [Agregar un nodo a la lista](https://github.com/oiab94/EstrucutraDeDatos/tree/main/02_ListaEnlazada/04_AgregarNodoListaEnlazada).
-   - [Agregar un nodo después del otro](https://github.com/oiab94/EstrucutraDeDatos/tree/main/02_ListaEnlazada/05_AgregarUnNodoDespuesDeOtro).
-   - [Agregar un nodo al final](https://github.com/oiab94/EstrucutraDeDatos/tree/main/02_ListaEnlazada/06_AgregarUnNodoAlFinal).
-   - [Métodos del nodo](https://github.com/oiab94/EstrucutraDeDatos/tree/main/02_ListaEnlazada/07_UtilizarMetodosAgregarNodo).
-   - [Eliminar un nodo de la lista](https://github.com/oiab94/EstrucutraDeDatos/tree/main/02_ListaEnlazada/08_EliminarUnNodo).
-   - [Eliminar un nodo dado una posición](https://github.com/oiab94/EstrucutraDeDatos/tree/main/02_ListaEnlazada/09_EliminarUnNodoDadoUnaPosicion).
+   - [Objeto linked list](/02_ListaEnlazada/01_ListaEnlazada/ListaEnlazada.java).
+   - [Creación linked list](/02_ListaEnlazada/02_CreacionListaEnlazada/ListaEnlazadaSimple.java).
+   - [Recorrido lista enlazada](/02_ListaEnlazada/03_RecorridoListaEnlazada/RecorridoListaEnlazada.java).
+   - [Agregar un nodo a la lista](/02_ListaEnlazada/04_AgregarNodoListaEnlazada/InsertarNodoAlFrente.java).
+   - [Agregar un nodo después del otro](/02_ListaEnlazada/05_AgregarUnNodoDespuesDeOtro/InsertarDespues.java).
+   - [Agregar un nodo al final](/02_ListaEnlazada/06_AgregarUnNodoAlFinal/InsertaAlFinal.java).
+   - [Métodos del nodo](/02_ListaEnlazada/07_UtilizarMetodosAgregarNodo/MetodosListaEnlazada.java).
+   - [Eliminar un nodo de la lista](/02_ListaEnlazada/08_EliminarUnNodo/EliminarNodo.java).
+   - [Eliminar un nodo dado una posición](/02_ListaEnlazada/09_EliminarUnNodoDadoUnaPosicion/EliminarNodoEnUnaPosicion.java).
 </details>
 
 <details>
 <summary> 3. Linked List Circular </summary>
-   - [Inserta en la lista enlazada circular](https://github.com/oiab94/EstrucutraDeDatos/blob/main/03_ListaEnlazadaCircular/InsertarOrdenadamenteLC.java).
-   - [Recorrido de la lista enlazada circular](https://github.com/oiab94/EstrucutraDeDatos/blob/main/03_ListaEnlazadaCircular/RecorreListaEnlazadaCircular.java).
+   - [Inserta en la lista enlazada circular](/03_ListaEnlazadaCircular/InsertarOrdenadamenteLC.java).
+   - [Recorrido de la lista enlazada circular](/03_ListaEnlazadaCircular/RecorreListaEnlazadaCircular.java).
 </details>
 
 <details>
 <summary> 4. Stack </summary>
 
-   - [Implementación de pila utilizando array](https://github.com/oiab94/EstrucutraDeDatos/tree/main/04_Pila/01_PilaImplemenandoArray).
-   - [Implementación de pila utilizando lista enlazada](https://github.com/oiab94/EstrucutraDeDatos/tree/main/04_Pila/02_PilaImplementandoListaEnlazada).
-   - [Implementación de pila utilizando framework JAVA](https://github.com/oiab94/EstrucutraDeDatos/tree/main/04_Pila/03_PilaUtilizandoFramework).
-   - [Cola utilizando pila](https://github.com/oiab94/EstrucutraDeDatos/tree/main/04_Pila/04_ColaUsandoPila).
+   - [Implementación de pila utilizando array](/04_Pila/01_PilaImplemenandoArray/Stack.java).
+   - [Implementación de pila utilizando lista enlazada](/04_Pila/02_PilaImplementandoListaEnlazada/StackConListaEnlazada.java).
+   - [Implementación de pila utilizando framework JAVA](/04_Pila/03_PilaUtilizandoFramework/Test.java).
+   - [Cola utilizando pila](/04_Pila/04_ColaUsandoPila/Metodo1.java).
 </details>
 
 <details>
 <summary> 5. Queue </summary>
-   - [Cola implementando en array](https://github.com/oiab94/EstrucutraDeDatos/tree/main/05_Cola/01_ColaImplementandoArray).
-   - [Cola de prioridad](https://github.com/oiab94/EstrucutraDeDatos/tree/main/05_Cola/02_ColaDePrioridad).
-   - [Cola doblemente enlazada](https://github.com/oiab94/EstrucutraDeDatos/tree/main/05_Cola/03_ColaDoblementeEnlazada/mypack).
+   - [Cola implementando en array](/05_Cola/01_ColaImplementandoArray/Queue.java).
+   - [Cola de prioridad](/05_Cola/02_ColaDePrioridad/PriorityQueueDemo.java).
+   - [Cola doblemente enlazada](/05_Cola/03_ColaDoblementeEnlazada/mypack/Queue.java).
 </details>
 
 <details>

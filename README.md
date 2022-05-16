@@ -55,4 +55,5 @@
    <summary> 6. Binary Tree </summary>
 
    - [Representación de un nodo del árbol binario](/06_%C3%81rbolBinario/01_ArbolBinario/Node.java)
+   - [Representación de una árbol binario simple](/06_%C3%81rbolBinario/02_ArbolBinarioSimple/ArbolBinario.java)
 </details>

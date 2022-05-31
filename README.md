@@ -54,9 +54,10 @@
 </details>
 
 <details>
-	 <summary> 6. Binary Tree </summary>
+<summary> 6. Binary Tree </summary>
 
 - [Representación de un nodo del árbol binario](/06_%C3%81rbolBinario/01_ArbolBinario/Node.java)
 - [Representación de una árbol binario simple](/06_%C3%81rbolBinario/02_ArbolBinarioSimple/ArbolBinario.java)
 - [Determinar altura de un árbol binario recursivo](/06_%C3%81rbolBinario/03_AnchoDeUnArbolBinario/AnchoArbolBinario.java)
+- [Determinar altura de un árbol binario recursivo optimizado](/06_%C3%81rbolBinario/03_AnchoDeUnArbolBinario/AnchoArbolBinarioOptimizado.java)
 </details>

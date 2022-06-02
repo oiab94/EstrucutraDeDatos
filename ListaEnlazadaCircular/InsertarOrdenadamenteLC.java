@@ -1,3 +1,5 @@
+package ListaEnlazadaCircular;
+
 public class InsertarOrdenadamenteLC {
   /**
    * Node

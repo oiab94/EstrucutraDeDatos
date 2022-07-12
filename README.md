@@ -62,4 +62,5 @@
 - [Determinar altura de un árbol binario recursivo optimizado](/ArbolBinario/AnchoDeUnArbolBinario/AnchoArbolBinarioOptimizado.java)
 - [Eliminación de un nodo](/ArbolBinario/Eliminaci%C3%B3nDeUnNodo/EliminacionNodo.java)
 - [Inserción de un nodo por orden de nivel](/ArbolBinario/InsercionPorOrdenDeNivel/InsercionEnArbolBinario.java)
+- [Comprobar si es completo o no](/ArbolBinario/ComprobarSiEsCompletooNo/ComprobacionCompletoONo.java)
 </details>

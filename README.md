@@ -56,8 +56,10 @@
 <details>
 <summary> 6. Binary Tree </summary>
 
-- [Representación de un nodo del árbol binario](/%C3%81rbolBinario/ArbolBinario/Node.java)
-- [Representación de una árbol binario simple](/%C3%81rbolBinario/ArbolBinarioSimple/ArbolBinario.java)
-- [Determinar altura de un árbol binario recursivo](/%C3%81rbolBinario/AnchoDeUnArbolBinario/AnchoArbolBinario.java)
-- [Determinar altura de un árbol binario recursivo optimizado](/%C3%81rbolBinario/AnchoDeUnArbolBinario/AnchoArbolBinarioOptimizado.java)
+- [Representación de un nodo del árbol binario](/ArbolBinario/ArbolBinario/Node.java)
+- [Representación de una árbol binario simple](/ArbolBinario/ArbolBinarioSimple/ArbolBinario.java)
+- [Determinar altura de un árbol binario recursivo](/ArbolBinario/AnchoDeUnArbolBinario/AnchoArbolBinario.java)
+- [Determinar altura de un árbol binario recursivo optimizado](/ArbolBinario/AnchoDeUnArbolBinario/AnchoArbolBinarioOptimizado.java)
+- [Eliminación de un nodo](/ArbolBinario/Eliminaci%C3%B3nDeUnNodo/EliminacionNodo.java)
+- [Inserción de un nodo por orden de nivel](/ArbolBinario/InsercionPorOrdenDeNivel/InsercionEnArbolBinario.java)
 </details>
